@@ -39,7 +39,7 @@ namespace ResourceView
                 employee.Name = "Sophiya";
                 employee.Id = "8600";
                 employee.Color = Color.FromHex("#FFE671B8");
-                employee.DisplayPicture = "schedule-resource-4.png";
+                employee.DisplayPicture = "employee0.png";
 
                 schedule.ScheduleResources.Add(employee);
             }
