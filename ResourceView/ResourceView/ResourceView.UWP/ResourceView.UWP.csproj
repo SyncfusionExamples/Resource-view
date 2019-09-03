@@ -143,14 +143,13 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.Core">
-      <Version>17.2.0.28-beta</Version>
-    </PackageReference>
-    <PackageReference Include="Syncfusion.Xamarin.SfSchedule">
-      <Version>17.2.0.28-beta</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.5" />
+    <PackageReference Include="Syncfusion.Xamarin.SfSchedule">
+      <Version>17.2.0.46</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms">
+      <Version>4.2.0.709249</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ResourceView\ResourceView.csproj">
